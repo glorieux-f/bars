@@ -1,2 +1,1 @@
-# bars
-Peintures en bar
+# Peintures en bar
