@@ -7,21 +7,26 @@
   <img src="2023-03-28_sarrazins.jpg" alt="2023-03-28, Sarrazins" height="500"/> 
   <img src="2023-03-28_sarrazins2.jpg" alt="2023-03-28, Sarrazins" height="500"/> 
   <img src="2023-03-28_sarrazins3.jpg" alt="2023-03-28, Sarrazins" height="500"/> 
+  <img src="2023-03-30_sarrazins2.jpg" alt="2023-03-30, Sarrazins" height="500"/> 
+  <img src="2023-03-30_sarrazins3.jpg" alt="2023-03-30, Sarrazins" height="500"/> 
 </div>
-<img src="2023-03-30_sarrazins1.jpg" alt="2023-03-30, Sarrazins" height="500"/> 
-<img src="2023-03-30_sarrazins2.jpg" alt="2023-03-30, Sarrazins" height="500"/> 
-<img src="2023-03-30_sarrazins3.jpg" alt="2023-03-30, Sarrazins" height="500"/> 
-<img src="2023-03-30_sarrazins4.jpg" alt="2023-03-30, Sarrazins" height="500"/> 
-<img src="2023-03-31_sarrazins1.jpg" alt="2023-03-31, Sarrazins" height="500"/> 
-<img src="2023-03-31_sarrazins2.jpg" alt="2023-03-31, Sarrazins" height="500"/> 
-<img src="2023-03-31_sarrazins3.jpg" alt="2023-03-31, Sarrazins" height="500"/> 
-<img src="2023-03-31_sarrazins4.jpg" alt="2023-03-31, Sarrazins" height="500"/> 
-<img src="2023-03-31_sarrazins5.jpg" alt="2023-03-31, Sarrazins" height="500"/> 
-<img src="2023-03-31_sarrazins6.jpg" alt="2023-03-31, Sarrazins" height="500"/> 
-<img src="2023-04-03_sarrazins1.jpg" alt="2023-04-03, Sarrazins" height="500"/> 
-<img src="2023-04-03_sarrazins2.jpg" alt="2023-04-03, Sarrazins" height="500"/> 
-<img src="2023-04-03_sarrazins3.jpg" alt="2023-04-03, Sarrazins" height="500"/> 
-<img src="2023-04-03_transfiguration.jpg" alt="2023-04-03, Transfiguration" height="500"/> 
+
+<div>
+  <img src="2023-03-31_sarrazins1.jpg" alt="2023-03-31, Sarrazins" width="500"/> 
+  <img src="2023-03-31_sarrazins2.jpg" alt="2023-03-31, Sarrazins" width="500"/> 
+  <img src="2023-03-31_sarrazins3.jpg" alt="2023-03-31, Sarrazins" width="500"/> 
+  <img src="2023-03-31_sarrazins4.jpg" alt="2023-03-31, Sarrazins" width="500"/> 
+  <img src="2023-03-31_sarrazins5.jpg" alt="2023-03-31, Sarrazins" width="500"/> 
+  <img src="2023-03-31_sarrazins6.jpg" alt="2023-03-31, Sarrazins" width="500"/>   
+</div>
+<div>
+  <img src="2023-03-30_sarrazins1.jpg" alt="2023-03-30, Sarrazins" width="500"/> 
+  <img src="2023-03-30_sarrazins4.jpg" alt="2023-03-30, Sarrazins" width="500"/> 
+  <img src="2023-04-03_sarrazins1.jpg" alt="2023-04-03, Sarrazins" width="500"/> 
+  <img src="2023-04-03_sarrazins2.jpg" alt="2023-04-03, Sarrazins" width="500"/> 
+</div>
+
+  <img src="2023-04-03_transfiguration.jpg" alt="2023-04-03, Transfiguration" height="500"/> 
 <img src="2023-04-08_sarrazins1.jpg" alt="2023-04-08, Sarrazins" height="500"/> 
 <img src="2023-04-08_sarrazins2.jpg" alt="2023-04-08, Sarrazins" height="500"/> 
 <img src="2023-04-08_sarrazins3.jpg" alt="2023-04-08, Sarrazins" height="500"/> 
