@@ -1,6 +1,7 @@
 # Peindre en bars
 
-<img alt="2011-11-20, Chimay" height="100%" src="2011-11-20_chimay.jpg"/>
+<img alt="2011-11-20, Chimay" height="500" src="2011-11-20_chimay.jpg"/>
+
 ![2016, Cafroide](2016_cafaite.jpg)
 ![2023-03-28, Sarrazins](2023-03-28_sarrazins.jpg)
 ![2023-03-28, Sarrazins](2023-03-28_sarrazins2.jpg)
