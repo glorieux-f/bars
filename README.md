@@ -35,8 +35,11 @@
 <img src="2023-04-15_sarrazins1.jpg" alt="2023-04-15, Sarrazins" height="500"/> 
 <img src="2023-04-15_sarrazins2.jpg" alt="2023-04-15, Sarrazins" height="500"/> 
 <img src="2023-04-15_sarrazins3.jpg" alt="2023-04-15, Sarrazins" height="500"/> 
-<img src="2023-04-15_sarrazins4.jpg" alt="2023-04-15, Sarrazins" height="500"/> 
-<img src="2023-04-15_sarrazins5.jpg" alt="2023-04-15, Sarrazins" height="500"/> 
+
+<div>
+<img src="2023-04-15_sarrazins4.jpg" alt="2023-04-15, Sarrazins" height="300"/> 
+<img src="2023-04-15_sarrazins5.jpg" alt="2023-04-15, Sarrazins" height="300"/>   
+</div>
 <img src="2023-05-04_sarrazins1.jpg" alt="2023-05-04, Sarrazins" height="500"/> 
 <img src="2023-05-04_sarrazins2.jpg" alt="2023-05-04, Sarrazins" height="500"/> 
 <img src="2023-05-04_sarrazins3.jpg" alt="2023-05-04, Sarrazins" height="500"/> 
@@ -44,20 +47,31 @@
 <img src="2023-05-06_sarrazins1.jpg" alt="2023-05-06, Sarrazins" height="500"/> 
 <img src="2023-05-06_sarrazins2.jpg" alt="2023-05-06, Sarrazins" height="500"/> 
 <img src="2023-05-06_sarrazins3.jpg" alt="2023-05-06, Sarrazins" height="500"/> 
-<img src="2023-05-06_sarrazins4.jpg" alt="2023-05-06, Sarrazins" height="500"/> 
-<img src="2023-05-06_sarrazins5.jpg" alt="2023-05-06, Sarrazins" height="500"/> 
-<img src="2023-05-06_sarrazins6.jpg" alt="2023-05-06, Sarrazins" height="500"/> 
-<img src="2023-05-06_sarrazins7.jpg" alt="2023-05-06, Sarrazins" height="500"/> 
+
+<div>
+  <img src="2023-05-06_sarrazins4.jpg" alt="2023-05-06, Sarrazins" height="500"/> 
+  <img src="2023-05-06_sarrazins5.jpg" alt="2023-05-06, Sarrazins" height="500"/> 
+  <img src="2023-05-06_sarrazins6.jpg" alt="2023-05-06, Sarrazins" height="500"/> 
+  <img src="2023-05-06_sarrazins7.jpg" alt="2023-05-06, Sarrazins" height="500"/>
+</div>
+ 
 <img src="2023-05-06_silent-cure2.jpg" alt="2023-05-06, silent-cure2" height="500"/> 
 <img src="2023-05-11_sarrazins1.jpg" alt="2023-05-11, Sarrazins" height="500"/> 
 <img src="2023-05-11_sarrazins4.jpg" alt="2023-05-11, Sarrazins" height="500"/> 
-<img src="2023-05-27_sarrazins1.jpg" alt="2023-05-27, Sarrazins" height="500"/> 
 <img src="2023-05_sarrazins-divan.jpg" alt="2023-05, Sarrazins, divan" height="500"/> 
 <img src="2023-05_sarrazins2.jpg" alt="2023-05, Sarrazins" height="500"/> 
-<img src="2023-06-19_sarrazins1.jpg" alt="2023-06-19, Sarrazins" height="500"/> 
+
 <img src="2023-06-19_sarrazins2.jpg" alt="2023-06-19, Sarrazins" height="500"/> 
-<img src="2023-06-19_sarrazins3.jpg" alt="2023-06-19, Sarrazins" height="500"/> 
-<img src="2023-06-19_sarrazins4.jpg" alt="2023-06-19, Sarrazins" height="500"/> 
+
+<div>
+<img src="2023-05-27_sarrazins1.jpg" alt="2023-05-27, Sarrazins" height="300"/> 
+<img src="2023-06-19_sarrazins1.jpg" alt="2023-06-19, Sarrazins" height="300"/> 
+<img src="2023-06-19_sarrazins3.jpg" alt="2023-06-19, Sarrazins" height="300"/> 
+<img src="2023-06-19_sarrazins4.jpg" alt="2023-06-19, Sarrazins" height="300"/> 
+</div>
+
+<div>
 <img src="2023-06-19_sarrazins5.jpg" alt="2023-06-19, Sarrazins" height="500"/> 
 <img src="2023-06-19_sarrazins6.jpg" alt="2023-06-19, Sarrazins" height="500"/> 
 <img src="2023-06-19_sarrazins7.jpg" alt="2023-06-19, Sarrazins" height="500"/> 
+</div>
