@@ -35,21 +35,21 @@
     <img src="2023-05-06_sarrazins2.jpg" alt="2023-05-06, Sarrazins" height="400"/> 
     <img src="2023-05-06_sarrazins3.jpg" alt="2023-05-06, Sarrazins" height="400"/> 
     <img src="2023-04-08_sarrazins3.jpg" alt="2023-04-08, Sarrazins" height="400"/> 
-    <img src="2023-05-06_sarrazins1.jpg" alt="2023-05-06, Sarrazins" width="500"/> 
+    <img src="2023-05-06_sarrazins1.jpg" alt="2023-05-06, Sarrazins" height="400"/> 
     <img src="2023-04-14_sarrazins1.jpg" alt="2023-04-14, Sarrazins" width="500"/> 
 </div>
 
 ## Tables
 <div>
-    <img src="2023-04-08_sarrazins1.jpg" alt="2023-04-08, Sarrazins" height="500"/> 
-    <img src="2023-04-08_sarrazins4.jpg" alt="2023-04-08, Sarrazins" height="500"/> 
-    <img src="2023-04-15_sarrazins3.jpg" alt="2023-04-15, Sarrazins" height="500"/> 
+    <img src="2023-04-08_sarrazins4.jpg" alt="2023-04-08, Sarrazins" width="500"/> 
+    <img src="2023-04-15_sarrazins3.jpg" alt="2023-04-15, Sarrazins" width="500"/> 
+    <img src="2023-05-11_sarrazins1.jpg" alt="2023-05-11, Sarrazins" width="500"/> 
+    <img src="2023-05_sarrazins-divan.jpg" alt="2023-05, Sarrazins, divan" width="500"/> 
+    <img src="2023-06-19_sarrazins2.jpg" alt="2023-06-19, Sarrazins" width="300"/> 
+    <!-- Vertical -->
+    <img src="2023-04-08_sarrazins1.jpg" alt="2023-04-08, Sarrazins" height="400"/> 
     <img src="2023-05-06_silent-cure2.jpg" alt="2023-05-06, silent-cure2" height="500"/> 
-    <img src="2023-05-11_sarrazins1.jpg" alt="2023-05-11, Sarrazins" height="500"/> 
-    <img src="2023-05_sarrazins-divan.jpg" alt="2023-05, Sarrazins, divan" height="500"/> 
-    <img src="2023-06-19_sarrazins2.jpg" alt="2023-06-19, Sarrazins" height="500"/> 
     <img src="2023-05-04_sarrazins2.jpg" alt="2023-05-04, Sarrazins" height="500"/> 
-
 </div>
 
 ## Portraits à l’insu
