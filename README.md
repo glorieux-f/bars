@@ -3,9 +3,11 @@
 <img alt="2011-11-20, Chimay" height="500" src="2011-11-20_chimay.jpg"/>
 
 <img src="2016_cafaite.jpg" alt="2016, Cafroide" height="500"/> 
-<img src="2023-03-28_sarrazins.jpg" alt="2023-03-28, Sarrazins" height="500"/> 
-<img src="2023-03-28_sarrazins2.jpg" alt="2023-03-28, Sarrazins" height="500"/> 
-<img src="2023-03-28_sarrazins3.jpg" alt="2023-03-28, Sarrazins" height="500"/> 
+<div>
+  <img src="2023-03-28_sarrazins.jpg" alt="2023-03-28, Sarrazins" height="500"/> 
+  <img src="2023-03-28_sarrazins2.jpg" alt="2023-03-28, Sarrazins" height="500"/> 
+  <img src="2023-03-28_sarrazins3.jpg" alt="2023-03-28, Sarrazins" height="500"/> 
+</div>
 <img src="2023-03-30_sarrazins1.jpg" alt="2023-03-30, Sarrazins" height="500"/> 
 <img src="2023-03-30_sarrazins2.jpg" alt="2023-03-30, Sarrazins" height="500"/> 
 <img src="2023-03-30_sarrazins3.jpg" alt="2023-03-30, Sarrazins" height="500"/> 
