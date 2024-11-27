@@ -1,5 +1,34 @@
 # Peindre en bars
 
+## Blablart
+<div>
+    <img src="2024-11-27_blablart1.jpg" alt="Blablart aux Sarrazins, 2023" width="700"/>
+    <img src="2023-04-15_sarrazins4.jpg" alt="2023-04-15, Sarrazins" height="300"/> 
+    <img src="2023-04-15_sarrazins5.jpg" alt="2023-04-15, Sarrazins" height="300"/>   
+    <img src="2023-05-04_sarrazins3.jpg" alt="2023-05-04, Sarrazins" height="500"/> 
+    <img src="2023-05-04_sarrazins4.jpg" alt="2023-05-04, Sarrazins" width="500"/> 
+</div>
+
+## Tables
+<div>
+    <img src="2024-11-25_sarrazins-blablart" alt="2024-11-15, Sarrazins" width="500"/> 
+    <img src="2023-04-08_sarrazins4.jpg" alt="2023-04-08, Sarrazins" width="500"/> 
+    <img src="2023-04-15_sarrazins3.jpg" alt="2023-04-15, Sarrazins" width="500"/> 
+    <img src="2023-05-11_sarrazins1.jpg" alt="2023-05-11, Sarrazins" width="500"/> 
+    <img src="2023-05_sarrazins-divan.jpg" alt="2023-05, Sarrazins, divan" width="500"/> 
+    <img src="2023-06-19_sarrazins2.jpg" alt="2023-06-19, Sarrazins" width="300"/> 
+    <!-- Vertical -->
+    <img src="2023-04-08_sarrazins1.jpg" alt="2023-04-08, Sarrazins" height="400"/> 
+    <img src="2023-05-06_silent-cure2.jpg" alt="2023-05-06, silent-cure2" height="500"/> 
+    <img src="2023-05-04_sarrazins2.jpg" alt="2023-05-04, Sarrazins" height="500"/> 
+</div>
+
+## Portraits à l’insu
+<div>
+    <img src="2024-11-25_sarrazins-blablart2.jpg" alt="2024-11-25, Sarrazins" width="500">
+    <img src="2023-04-15_sarrazins1.jpg" alt="2023-04-15, Sarrazins" height="500"/> 
+</div>
+
 ## La grande table à sarrazins
 <div>
     <img src="2023-03-28_sarrazins.jpg" alt="2023-03-28, Sarrazins" height="500"/> 
@@ -39,31 +68,6 @@
     <img src="2023-04-14_sarrazins1.jpg" alt="2023-04-14, Sarrazins" width="500"/> 
 </div>
 
-## Tables
-<div>
-    <img src="2023-04-08_sarrazins4.jpg" alt="2023-04-08, Sarrazins" width="500"/> 
-    <img src="2023-04-15_sarrazins3.jpg" alt="2023-04-15, Sarrazins" width="500"/> 
-    <img src="2023-05-11_sarrazins1.jpg" alt="2023-05-11, Sarrazins" width="500"/> 
-    <img src="2023-05_sarrazins-divan.jpg" alt="2023-05, Sarrazins, divan" width="500"/> 
-    <img src="2023-06-19_sarrazins2.jpg" alt="2023-06-19, Sarrazins" width="300"/> 
-    <!-- Vertical -->
-    <img src="2023-04-08_sarrazins1.jpg" alt="2023-04-08, Sarrazins" height="400"/> 
-    <img src="2023-05-06_silent-cure2.jpg" alt="2023-05-06, silent-cure2" height="500"/> 
-    <img src="2023-05-04_sarrazins2.jpg" alt="2023-05-04, Sarrazins" height="500"/> 
-</div>
-
-## Portraits à l’insu
-<div>
-    <img src="2023-04-15_sarrazins1.jpg" alt="2023-04-15, Sarrazins" height="500"/> 
-</div>
-
-## Blablart
-<div>
-    <img src="2023-04-15_sarrazins4.jpg" alt="2023-04-15, Sarrazins" height="300"/> 
-    <img src="2023-04-15_sarrazins5.jpg" alt="2023-04-15, Sarrazins" height="300"/>   
-    <img src="2023-05-04_sarrazins3.jpg" alt="2023-05-04, Sarrazins" height="500"/> 
-    <img src="2023-05-04_sarrazins4.jpg" alt="2023-05-04, Sarrazins" height="500"/> 
-</div>
 
 
 ## La cour au soleil
