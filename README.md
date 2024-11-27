@@ -2,16 +2,16 @@
 
 ## Blablart
 <div>
-    <img src="2024-11-27_blablart1.jpg" alt="Blablart aux Sarrazins, 2023" width="700"/>
+    <img src="2024-11-27_blablart1.jpg" alt="Blablart aux Sarrazins, 2023" height="500"/>
+    <img src="2023-05-04_sarrazins3.jpg" alt="2023-05-04, Sarrazins" height="500"/> 
     <img src="2023-04-15_sarrazins4.jpg" alt="2023-04-15, Sarrazins" height="300"/> 
     <img src="2023-04-15_sarrazins5.jpg" alt="2023-04-15, Sarrazins" height="300"/>   
-    <img src="2023-05-04_sarrazins3.jpg" alt="2023-05-04, Sarrazins" height="500"/> 
-    <img src="2023-05-04_sarrazins4.jpg" alt="2023-05-04, Sarrazins" width="500"/> 
+    <img src="2023-05-04_sarrazins4.jpg" alt="2023-05-04, Sarrazins" height="300"/> 
 </div>
 
 ## Tables
 <div>
-    <img src="2024-11-25_sarrazins-blablart" alt="2024-11-15, Sarrazins" width="500"/> 
+    <img src="2024-11-25_sarrazins-blablart.jpg" alt="2024-11-15, Sarrazins" width="500"/> 
     <img src="2023-04-08_sarrazins4.jpg" alt="2023-04-08, Sarrazins" width="500"/> 
     <img src="2023-04-15_sarrazins3.jpg" alt="2023-04-15, Sarrazins" width="500"/> 
     <img src="2023-05-11_sarrazins1.jpg" alt="2023-05-11, Sarrazins" width="500"/> 
@@ -19,8 +19,8 @@
     <img src="2023-06-19_sarrazins2.jpg" alt="2023-06-19, Sarrazins" width="300"/> 
     <!-- Vertical -->
     <img src="2023-04-08_sarrazins1.jpg" alt="2023-04-08, Sarrazins" height="400"/> 
-    <img src="2023-05-06_silent-cure2.jpg" alt="2023-05-06, silent-cure2" height="500"/> 
-    <img src="2023-05-04_sarrazins2.jpg" alt="2023-05-04, Sarrazins" height="500"/> 
+    <img src="2023-05-06_silent-cure2.jpg" alt="2023-05-06, silent-cure2" height="400"/> 
+    <img src="2023-05-04_sarrazins2.jpg" alt="2023-05-04, Sarrazins" height="400"/> 
 </div>
 
 ## Portraits à l’insu
@@ -78,7 +78,7 @@
     <img src="2023-05-06_sarrazins7.jpg" alt="2023-05-06, Sarrazins" height="500"/>
 </div>
 
-# Entracte et queue aux toilettes
+## Entracte et queue aux toilettes
 <div>
     <img src="2023-05-11_sarrazins4.jpg" alt="2023-05-11, Sarrazins" width="500"/> 
 </div>
