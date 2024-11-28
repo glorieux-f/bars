@@ -11,7 +11,8 @@
 
 ## Tables
 <div>
-    <img src="2024-11-25_sarrazins-blablart.jpg" alt="2024-11-15, Sarrazins" width="500"/> 
+    <img src="2024-11-25_sarrazins-blablart.jpg" alt="2024-11-25, Sarrazins" width="500"/> 
+    <img src="2024-11-28_sarrazins1.jpg"alt="2024-11-28, Sarrazins" width="500"/> 
     <img src="2023-04-08_sarrazins4.jpg" alt="2023-04-08, Sarrazins" width="500"/> 
     <img src="2023-04-15_sarrazins3.jpg" alt="2023-04-15, Sarrazins" width="500"/> 
     <img src="2023-05-11_sarrazins1.jpg" alt="2023-05-11, Sarrazins" width="500"/> 
@@ -25,7 +26,8 @@
 
 ## Portraits à l’insu
 <div>
-    <img src="2024-11-25_sarrazins-blablart2.jpg" alt="2024-11-25, Sarrazins" width="500">
+    <img src="2024-11-27_sarrazins.jpg alt="2024-11-27, Sarrazins" height="400">
+    <img src="2024-11-25_sarrazins-blablart2.jpg" alt="2024-11-25, Sarrazins" height="500">
     <img src="2023-04-15_sarrazins1.jpg" alt="2023-04-15, Sarrazins" height="500"/> 
 </div>
 
