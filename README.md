@@ -26,7 +26,7 @@
 
 ## Portraits à l’insu
 <div>
-    <img src="2024-11-27_sarrazins.jpg alt="2024-11-27, Sarrazins" height="400">
+    <img src="2024-11-27_sarrazins.jpg" alt="2024-11-27, Sarrazins" height="400">
     <img src="2024-11-25_sarrazins-blablart2.jpg" alt="2024-11-25, Sarrazins" height="500">
     <img src="2023-04-15_sarrazins1.jpg" alt="2023-04-15, Sarrazins" height="500"/> 
 </div>
